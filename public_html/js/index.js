@@ -6,9 +6,9 @@ window.onload = function () {
 		{
 			type: "column",
 			dataPoints: [
-				{ label: "Linux",  y: 172207  },
-				{ label: "Android", y: 64405568  },
-				{ label: "Windows", y: 578702687  }
+				{ label: "HOW GOOD LINUX IS",  y: 172207  },
+				{ label: "HOW BAD IT IS", y: 64405568  },
+				{ label: "AND HOW MUCH IT SUCKS", y: 578702687  }
 	
 			]
 		}
